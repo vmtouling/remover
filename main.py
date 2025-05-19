@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 import os
 
+
 # Setup required intents
 intents = discord.Intents.default()
 intents.members = True
